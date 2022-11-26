@@ -4,4 +4,4 @@
 <img width="150" style="margin-right:30px" src="./svg/javascript.svg" alt="">
 <img width="150" style="margin-right:30px" src="./svg/jquery.svg" alt="">
 <img width="150" style="margin-right:30px" src="./svg/php.svg" alt="">
-<img src="./images/logo-trungquandev-transparent-bg-192x192.png" alt="">
+<img src="./images/avt-zalo.png" alt="">
